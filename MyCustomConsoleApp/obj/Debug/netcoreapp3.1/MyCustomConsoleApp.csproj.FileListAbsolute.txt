@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\MyCustomConsoleApp\MyCustomConsoleApp\bin\Debug\netcoreapp3.1\MyCustomConsoleApp.exe
+C:\Users\Asus\source\repos\MyCustomConsoleApp\MyCustomConsoleApp\bin\Debug\netcoreapp3.1\MyCustomConsoleApp.deps.json
+C:\Users\Asus\source\repos\MyCustomConsoleApp\MyCustomConsoleApp\bin\Debug\netcoreapp3.1\MyCustomConsoleApp.runtimeconfig.json
+C:\Users\Asus\source\repos\MyCustomConsoleApp\MyCustomConsoleApp\bin\Debug\netcoreapp3.1\MyCustomConsoleApp.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\MyCustomConsoleApp\MyCustomConsoleApp\bin\Debug\netcoreapp3.1\MyCustomConsoleApp.dll
+C:\Users\Asus\source\repos\MyCustomConsoleApp\MyCustomConsoleApp\bin\Debug\netcoreapp3.1\MyCustomConsoleApp.pdb
+C:\Users\Asus\source\repos\MyCustomConsoleApp\MyCustomConsoleApp\obj\Debug\netcoreapp3.1\MyCustomConsoleApp.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\MyCustomConsoleApp\MyCustomConsoleApp\obj\Debug\netcoreapp3.1\MyCustomConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\MyCustomConsoleApp\MyCustomConsoleApp\obj\Debug\netcoreapp3.1\MyCustomConsoleApp.AssemblyInfo.cs
+C:\Users\Asus\source\repos\MyCustomConsoleApp\MyCustomConsoleApp\obj\Debug\netcoreapp3.1\MyCustomConsoleApp.dll
+C:\Users\Asus\source\repos\MyCustomConsoleApp\MyCustomConsoleApp\obj\Debug\netcoreapp3.1\MyCustomConsoleApp.pdb
